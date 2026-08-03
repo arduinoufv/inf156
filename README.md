@@ -32,6 +32,13 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   * Métricas de Comparação: Distância de Hamming, Jaccard, Euclideana, Manhatan
     
 ## Algebra Booleana e Circuitos Combinacionais
+  ### Algebra Booleana
+  * [Operações, Portas lógicas e Tabela Verdade](https://github.com/arduinoufv/inf156/blob/main/algebraBooleana.md)
+  ----
+  ### Circuitos Aritméticos
+  ----
+  ### Circuitos Universais
+  ----
 -----
 ## Prova 1 - 14/09/2026
 -----
