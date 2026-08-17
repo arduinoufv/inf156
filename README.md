@@ -15,7 +15,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
     3.Modelo em camadas
 -----
 ## 2. Sistemas de numeração e aritmética binária
-  ### Aula 17/8/26 - 2.1. Codificação Binário, Complemento de Dois e Aritmética Binária
+  ### Aula 17/8/26 - 2.1. Codificação Binário, Complemento de Dois e Aritmética Binária [Gravação da Aula](https://www.youtube.com/playlist?list=PLY8BYB5fkDEU)
   * [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
   * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
   * ![](https://github.com/arduinoufv/inf150/blob/master/aula2026/qrcode_teste1_2026.png?raw=true) ou [Link Colab](https://colab.research.google.com/drive/1o1MJMdnXnjS8jHiNIKmYl5NTTOII5gpY?usp=sharing)
