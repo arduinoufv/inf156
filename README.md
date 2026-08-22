@@ -41,7 +41,9 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   ### Aula 31/08/26  - Algebra Booleana
   * [Operações, Portas lógicas e Tabela Verdade](https://github.com/arduinoufv/inf156/blob/main/algebraBooleana.md)
   ----
-  ### Circuitos Aritméticos
+  ### Aula 3/9/26 - Circuitos Aritméticos
+  * [slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
+  * [Colab de Somadores, Subtrator, Multiplicador, ALU, Comparador](https://colab.research.google.com/drive/1_ZvUX2a5WQWPhcyDGw7wCTmM_b85gS6B?usp=sharing)
   ----
   ### Circuitos Universais
   ----
