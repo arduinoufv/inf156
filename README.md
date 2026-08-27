@@ -30,7 +30,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   * [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf)
   * [COLAB Introdução ao Float 2025](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
  #### Aula 24/08/26
-  * Gravação da aula com soma e multiplicacao](https://www.youtube.com/playlist?list=PLUSANsvlUKLE)
+  * [Gravação da aula com soma e multiplicacao](https://www.youtube.com/playlist?list=PLUSANsvlUKLE)
   * [Gerador de exercícios para treinar o teste de 31/08/26](https://colab.research.google.com/drive/1KpKzXLy5DYOklvlpxxM0hHujUtBQmQ9M?usp=sharing)
   * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
   * [Mais Material de Ponto Flutuante](https://github.com/arduinoufv/inf156/blob/main/PontoFlutuante.md)
