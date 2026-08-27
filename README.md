@@ -24,12 +24,15 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   * [Colab com exercícios](https://colab.research.google.com/drive/1fXos9vwI_qQl2x3kUQ3gy32EuEFAemqm?usp=sharing)
 ------
  ### Aula 20/8/26 e 24/08/26 2.2 Ponto Flutuante  - Teste na aula 24/08
-  * [Gravação da aula 20/8](https://www.youtube.com/playlist?list=PLZQMw9a9qsEM)
+  * [Gravação da aula 20/8  com a representação de float7](https://www.youtube.com/playlist?list=PLZQMw9a9qsEM)
   * [conversor online 32 bits IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
   * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
   * [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf)
   * [COLAB Introdução ao Float 2025](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
-
+ #### Aula 24/08/26
+  * Gravação da aula com soma e multiplicacao](https://www.youtube.com/playlist?list=PLUSANsvlUKLE)
+  * [Gerador de exercícios para treinar o teste de 31/08/26](https://colab.research.google.com/drive/1KpKzXLy5DYOklvlpxxM0hHujUtBQmQ9M?usp=sharing)
+  * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
   * [Mais Material de Ponto Flutuante](https://github.com/arduinoufv/inf156/blob/main/PontoFlutuante.md)
 ----- 
 ### Aula 27/08/26 Codificação [Colab](https://colab.research.google.com/drive/1rWmTGe6Jctlp7aID9cOfHGYmUVqILPyE?usp=sharing)
