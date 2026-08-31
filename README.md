@@ -5,7 +5,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 * local: segunda 16-18 no PVA134, quinta 14-16 PVA126  
 # Plano de Avaliação
 * [Ementa da Disciplina](https://www3.dti.ufv.br/dti/catalogo/programa-analitico/80495)
-* Três avaliações de 30 pontos: 14/09/26, 26/10/26, 10/12/2026
+* Três avaliações de 30 pontos: 14/09/26 (sala PVA 353), 26/10/26, 10/12/2026
 * 10 pontos de testes aplicados em sala de aula.
   
 # Plano de Aulas
@@ -51,7 +51,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   ### Circuitos Universais
   ----
 -----
-## Prova 1 - 14/09/2026
+## Prova 1 - 14/09/2026 - PVA 353
 -----
 ## Hierarquia de Memoria
 ---
