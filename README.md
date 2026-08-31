@@ -42,9 +42,14 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
     
 ## Algebra Booleana e Circuitos Combinacionais
   ### Aula 31/08/26  - Algebra Booleana
-  * [Operações, Portas lógicas e Tabela Verdade](https://github.com/arduinoufv/inf156/blob/main/algebraBooleana.md)
+  * {gravação da aula](https://www.youtube.com/playlist?list=PLRUq32KJzAZw)
+  * Entregue em Sala de Aula [**Exercicios para treino apenas...**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf) e [**Resposta dos exercicios de treino**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
+* [Quiz online para treinar para teste](https://colab.research.google.com/drive/1JiU0gVBVLbcWVX0NQFrEuQweTrsF3nDA?usp=sharing)
+* [Simulador livre onde voce pode desenhar qualquer circuito para conferir as respostas](https://colab.research.google.com/drive/1OdSmVHwxH76u3zeltejtsoGKNSmhI4VL?usp=sharing)
+
+  * Material Suplementar: [Operações, Portas lógicas e Tabela Verdade](https://github.com/arduinoufv/inf156/blob/main/algebraBooleana.md)
   ----
-  ### Aula 3/9/26 - Circuitos Aritméticos
+  ### Aula 3/9/26 - Circuitos Aritméticos e Teste de Portas Lógicas
   * [slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
   * [Colab de Somadores, Subtrator, Multiplicador, ALU, Comparador](https://colab.research.google.com/drive/1_ZvUX2a5WQWPhcyDGw7wCTmM_b85gS6B?usp=sharing)
   ----
