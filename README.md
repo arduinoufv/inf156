@@ -54,6 +54,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   * [Colab de Somadores, Subtrator, Multiplicador, ALU, Comparador](https://colab.research.google.com/drive/1_ZvUX2a5WQWPhcyDGw7wCTmM_b85gS6B?usp=sharing)
   ----
   ### Circuitos Universais
+  * [Multiplexadores, Decodificadores e Codificadores](https://colab.research.google.com/drive/1kQC8QvDO-mUO5MRcBKfZsiFGvGCZ7cnR?usp=sharing)
   ----
 -----
 ## Prova 1 - 14/09/2026 - PVA 353
