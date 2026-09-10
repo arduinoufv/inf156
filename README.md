@@ -58,6 +58,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   ----
 -----
 ## Prova 1 - 14/09/2026 - PVA 353
+* [videos com dicas das questões](https://www.youtube.com/playlist?list=PLQDj5EWqkgCs)
 -----
 ## Hierarquia de Memoria
 ---
