@@ -33,7 +33,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
   * [Gravação da aula com soma e multiplicacao](https://www.youtube.com/playlist?list=PLUSANsvlUKLE)
   * [Gerador de exercícios para treinar o teste de 31/08/26](https://colab.research.google.com/drive/1KpKzXLy5DYOklvlpxxM0hHujUtBQmQ9M?usp=sharing)
   * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
-  * [Mais Material de Ponto Flutuante](https://github.com/arduinoufv/inf156/blob/main/PontoFlutuante.md)
+  * [Mais Material de Ponto Flutuante](https://github.com/arduinoufv/inf150/blob/main/PontoFlutuante.md)
 ----- 
 ### Aula 27/08/26 Codificação [Colab](https://colab.research.google.com/drive/1rWmTGe6Jctlp7aID9cOfHGYmUVqILPyE?usp=sharing)
   * One-hot
