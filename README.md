@@ -61,8 +61,13 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 * [videos com dicas das questões](https://www.youtube.com/playlist?list=PLQDj5EWqkgCs)
 -----
 ## Hierarquia de Memoria
+### Aula FlipFlop 17/9/26
+* [Latches, FlipFlop, Contadores e Máquinas](https://colab.research.google.com/drive/1tNb3hDkJuvyBlkRo-RF1ysBml5kEk_dE?usp=sharing)
+### Aula Memória e Introdução a Cache 21/09/26
+* [Memoria RAM e Cache](https://colab.research.google.com/drive/13oAxFjZDjfW2ccz5LfL7K9xXoCf8OxV1?usp=sharing)
 ---
 ## Compiladores
+* [Linguagens, Compiladores, Interpretadores](https://colab.research.google.com/drive/16MHl-5Zf9fQIS-MAW62N5YHusLLXQtY5?usp=sharing)
 ---
 ## Modelos de Arquitetura
 ---
