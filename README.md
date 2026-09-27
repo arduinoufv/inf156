@@ -73,11 +73,13 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 * [Simulador Venus](https://venus.kvakil.me/)
 * [Colab com exemplos para copiar e colar no Venus](https://colab.research.google.com/drive/1I7bfhjecH62ySZUtSpAqMq71Sctf5TJn?usp=sharing)
 ---
-## Modelos de Arquitetura
----
 ## Computacao Embarcada
+* [Colab Computação Embarcada](https://colab.research.google.com/drive/1solcoLz2iItz_E_1sNHrgUKZcbixrWH2?usp=sharing)
 ---
 ## Sistemas de Comunicacao
+* [Colab Comunicação e Analógico/Digital](https://colab.research.google.com/drive/1-2TUphfSq1olotA9x5lIi02xw1qBdc42?usp=sharing)
+---
+## Modelos de Arquitetura
 ---
 ## Prova 2 26/10/2026
 ----
