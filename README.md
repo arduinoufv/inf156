@@ -66,8 +66,12 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 ### Aula Memória e Introdução a Cache 21/09/26
 * [Memoria RAM e Cache](https://colab.research.google.com/drive/13oAxFjZDjfW2ccz5LfL7K9xXoCf8OxV1?usp=sharing)
 ---
-## Compiladores
+## Compiladores - 24/09/26
 * [Linguagens, Compiladores, Interpretadores](https://colab.research.google.com/drive/16MHl-5Zf9fQIS-MAW62N5YHusLLXQtY5?usp=sharing)
+###  Assembler Risc-V com exemplos
+* [instruções](https://www.ic.unicamp.br/~edson/disciplinas/mc404/2019-2s/ab/anexos/RISC_V_refcard.pdf)
+* [Simulador Venus](https://venus.kvakil.me/)
+* [Colab com exemplos para copiar e colar no Venus](https://colab.research.google.com/drive/1I7bfhjecH62ySZUtSpAqMq71Sctf5TJn?usp=sharing)
 ---
 ## Modelos de Arquitetura
 ---
