@@ -72,6 +72,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 * [instruções](https://www.ic.unicamp.br/~edson/disciplinas/mc404/2019-2s/ab/anexos/RISC_V_refcard.pdf)
 * [Simulador Venus](https://venus.kvakil.me/)
 * [Colab com exemplos para copiar e colar no Venus](https://colab.research.google.com/drive/1I7bfhjecH62ySZUtSpAqMq71Sctf5TJn?usp=sharing)
+* [Video com a explicação dos exemplos do Colab](https://www.youtube.com/playlist?list=PLCcGo0VIGylk)
 ---
 ## Computacao Embarcada
 * [Colab Computação Embarcada](https://colab.research.google.com/drive/1solcoLz2iItz_E_1sNHrgUKZcbixrWH2?usp=sharing)
