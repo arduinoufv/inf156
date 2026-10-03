@@ -68,19 +68,22 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 ---
 ## Compiladores - 24/09/26
 * [Linguagens, Compiladores, Interpretadores](https://colab.research.google.com/drive/16MHl-5Zf9fQIS-MAW62N5YHusLLXQtY5?usp=sharing)
-###  Assembler Risc-V com exemplos
+###  Assembly Risc-V com exemplos
 * [instruções](https://www.ic.unicamp.br/~edson/disciplinas/mc404/2019-2s/ab/anexos/RISC_V_refcard.pdf)
 * [Simulador Venus](https://venus.kvakil.me/)
 * [Colab com exemplos para copiar e colar no Venus](https://colab.research.google.com/drive/1I7bfhjecH62ySZUtSpAqMq71Sctf5TJn?usp=sharing)
-* [Video com a explicação dos exemplos do Colab](https://www.youtube.com/playlist?list=PLCcGo0VIGylk)
+* [**Video** com a explicação dos exemplos do Colab](https://www.youtube.com/playlist?list=PLCcGo0VIGylk)
 ---
-## Computacao Embarcada
+## Computacao Embarcada 1/10/26
 * [Colab Computação Embarcada](https://colab.research.google.com/drive/1solcoLz2iItz_E_1sNHrgUKZcbixrWH2?usp=sharing)
+* [video aula 1/10/26](https://www.youtube.com/playlist?list=PLNRirQ2S4gSg)
 ---
-## Sistemas de Comunicacao
+## Sistemas de Comunicacao 5/10/26
 * [Colab Comunicação e Analógico/Digital](https://colab.research.google.com/drive/1-2TUphfSq1olotA9x5lIi02xw1qBdc42?usp=sharing)
 ---
-## Modelos de Arquitetura
+## Modelos de Arquitetura  7/10/26
+* Teste de Assembly - rever aula dia 24/9 e treinar nos questionários da aula
+* [Colab da Aula](https://colab.research.google.com/drive/1CJwOlrdpjI623fRdP5hKuZDE1OyORNiM?usp=sharing)
 ---
 ## Prova 2 26/10/2026
 ----
