@@ -81,13 +81,24 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 ## Sistemas de Comunicacao 5/10/26
 * [Colab Comunicação e Analógico/Digital](https://colab.research.google.com/drive/1-2TUphfSq1olotA9x5lIi02xw1qBdc42?usp=sharing)
 ---
-## Modelos de Arquitetura  7/10/26
+## Modelos de Arquitetura  19/10/26
 * Teste de Assembly - rever aula dia 24/9 e treinar nos questionários da aula
-* [Colab da Aula](https://colab.research.google.com/drive/1CJwOlrdpjI623fRdP5hKuZDE1OyORNiM?usp=sharing)
+* [Colab da Aula - Modelos de Arquitetura](https://colab.research.google.com/drive/1CJwOlrdpjI623fRdP5hKuZDE1OyORNiM?usp=sharing)
+
 ---
-## Prova 2 26/10/2026
+## Prova 2 5/11/2026
+
 ----
 ## Computacao de Alto Desempenho
+
+### Aula 22 outubro - Processadores Vetoriais e Desempenho da Multiplicacao de Matrizes 
+* [Colab python,c, vetorial com avx, gpu e tpu](https://colab.research.google.com/drive/1gQOMMNKgHgxjL8_irXJfyaMwIfkY37mB?usp=sharing)
+  
+### Aula 26 outubro - Array Processors e Multiprocessadores
+* [Gravacao da aula](https://www.youtube.com/playlist?list=PLPyzVS-UoYzs)
+* [Colab de Array Processor](https://colab.research.google.com/drive/1IFy-9BuBCPxl9F2RadJdJv5zj7yHunIo?usp=sharing)
+* [Colab de Multiprocessador](https://colab.research.google.com/drive/1p6sdQqsq1aNTh3o0mdR2Tu_KBeUuzwJ6?usp=sharing)
+* [Colab de Introdução a GPU](https://colab.research.google.com/drive/1NgR37lKgcHVRnlFJVAVekEWkfdKczOY3?usp=sharing)
 ---
 ## Sistemas Operacionais e Sistemas de Arquivo 
 ---
