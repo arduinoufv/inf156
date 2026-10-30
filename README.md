@@ -87,6 +87,10 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 
 ---
 ## Prova 2 5/11/2026
+* [videos da aula de revisão](https://www.youtube.com/playlist?list=PLC2FM1k7vRwc)
+* Faça os questionários que estão nos Colabs das aulas
+* [Para questões fechadas treine resolvendo estes exemplos](https://docs.google.com/document/d/1_B1w_DTD0A1LZfn0QmVdBN30e2PHjasqGBNoguA_hUg/edit?usp=sharing)
+* Em breve videos com dicas para a soluções dos exercícios acima....
 
 ----
 ## Computacao de Alto Desempenho
