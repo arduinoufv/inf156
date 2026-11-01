@@ -90,7 +90,7 @@ Conteúdo do Curso INF156 - Fundamentos de Sistemas Computacionais
 * [videos da aula de revisão](https://www.youtube.com/playlist?list=PLC2FM1k7vRwc)
 * Faça os questionários que estão nos Colabs das aulas
 * [Para questões fechadas treine resolvendo estes exemplos](https://docs.google.com/document/d/1_B1w_DTD0A1LZfn0QmVdBN30e2PHjasqGBNoguA_hUg/edit?usp=sharing)
-* Em breve videos com dicas para a soluções dos exercícios acima....
+* [Importantes - Dicas para resolver o treino do item anterior](https://www.youtube.com/playlist?list=PLKY7u9ZgFIMw)
 
 ----
 ## Computacao de Alto Desempenho
